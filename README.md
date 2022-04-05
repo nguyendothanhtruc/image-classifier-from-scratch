@@ -105,7 +105,7 @@ The final block includes 3 Fully connected layers. The 2 first layers contain `4
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how to run our model. To save time and leverage the GPU, we build our model in Kaggle with input and our pre-trained model attached. Our current accuracy for this model is `more than 91%`.
+This is an example of how to run our model. To save time and leverage the GPU, we build our model in Kaggle with input and our pre-trained model attached. 
 
 <b>See</b>: [Project in Kaggle](https://www.kaggle.com/nguynngcphnganh/image-classification-42-78-97)
   
